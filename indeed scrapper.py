@@ -2,7 +2,7 @@ from apify_client import ApifyClient
 import pandas as pd
 
 # Initialize the ApifyClient with your API token
-client = ApifyClient("apify_api_rJ3fpdBHliIh9gMCD8HaLyGcjcct4x3YkihJ")
+client = ApifyClient("api key")
 
 # Prepare the Actor input
 run_input = {
